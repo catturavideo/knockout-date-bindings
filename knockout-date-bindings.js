@@ -35,7 +35,7 @@
             dateFormat = 'YYYY-MM';
         }
         else if (type == 'time') {
-            dateFormat = 'hh:mm';
+            dateFormat = 'HH:mm';
         }
         else if(type == 'week'){
             dateFormat = 'GGGG-[W]WW';
